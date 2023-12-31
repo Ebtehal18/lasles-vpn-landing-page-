@@ -29,4 +29,4 @@ To view the Lasles VPN landing page:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/lasles-vpn-landing-page.git
+   git clone https://github.com/Ebtehal18/lasles-vpn-landing-page.git
